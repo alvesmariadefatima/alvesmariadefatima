@@ -1,12 +1,8 @@
-###
-
-<!--
-**alvesmariadefatima/alvesmariadefatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Frontend Developer in the page Doe Agora.
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript e Design Gráfico.
-- 👯 I’m looking to collaborate on personal projects.
-- 😄 Pronouns: she/her
--->
+<h1>Meu Github: @alvesmariadefatima</h1>
+<hr>
+<p>Nome completo: Maria de Fátima Nunes Alves</p>
+<p>Idade: 20 anos</p>
+<p>Estudante de Ciência da Computação</p>
+<p>Estou aprendendo Python e pretendo me aperfeiçoar em outras linguagens de programação.</p>
+<p>Soft Skills: Python, HTML, CSS, JavaScript e Design Gráfico</p>
+<hr>
