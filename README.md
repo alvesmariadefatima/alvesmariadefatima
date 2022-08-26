@@ -3,5 +3,6 @@
 <p>👩🏻 Nome completo: Maria de Fátima Nunes Alves</p>
 <p>👩‍💻 Estudante de Ciência da Computação</p>
 <p>💻 Estou aprendendo Python e pretendo me aperfeiçoar em outras linguagens de programação.</p>
-<p>📝 Soft Skills: Python, HTML, CSS, JavaScript e Design Gráfico</p>
+<p>📝 Hard Skills: Python, HTML, CSS e JS</p>
+<p>🤹‍♀️ Soft Skills: Comunicação, organização e liderança</p>
 <hr>
