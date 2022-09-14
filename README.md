@@ -2,7 +2,7 @@
 <p>📚 I am student of Computing Science in the University Tiradentes (Unit).</p>
 <p>🚀 I am in the constant learning.</p>
 <p>💻 I intend be a future Front-End Developer.</p>
-<p>🖱️ Hard Skills: HTML, CSS, JavaScript and Python</p>
+<p>🖱️ Hard Skills: HTML, CSS, JavaScript, Python and Java.</p>
 <hr>
 <p>📞 My Contacts:</p>
 
