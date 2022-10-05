@@ -4,6 +4,9 @@
 👩‍💻 My name is Maria de Fátima Nunes Alves and my nickname is alvesmariadefatima!
 <br>
 <br>
+<img src="cat-typing-12.gif">
+<br>
+<br>
 <p>📚 I am student of Computing Science in the University Tiradentes (Unit).</p>
 <p>🚀 I am in the constant learning.</p>
 <p>💻 I intend be a future Front-End Developer.</p>
@@ -19,7 +22,7 @@ Contacts:
 </div>
 <br>
 <br>
-My custom pet - 😻
+My custom pet created by me - 😻
 <br>
 <br>
 <img src="octocat-1664977915665.png">
