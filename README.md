@@ -1,5 +1,7 @@
-<h1>👩‍💻 Hello! Welcome to my Github Profile.</h1>
-My name is Maria de Fátima Nunes Alves and my nickname is alvesmariadefatima!
+👋 Hello! Welcome to my Github Profile.
+<br>
+<br>
+👩‍💻 My name is Maria de Fátima Nunes Alves and my nickname is alvesmariadefatima!
 <br>
 <br>
 <p>📚 I am student of Computing Science in the University Tiradentes (Unit).</p>
