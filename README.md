@@ -28,8 +28,4 @@ Contacts:
 <a href="https://www.linkedin.com/in/maria-de-fatima-nunes-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br>
-<br>
-My Art Created By Me 😻
-<br>
-<br>
-<img src = "20221112_195540_0000.png">
+<img src = "IMG_20221113_115431_762.jpg">
