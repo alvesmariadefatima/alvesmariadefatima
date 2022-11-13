@@ -29,7 +29,7 @@ Contacts:
 </div>
 <br>
 <br>
-My custom pet created by me - 😻
+My Art Created By Me 😻
 <br>
 <br>
-<img src="octocat-1664977915665.png">
+<img src = "20221112_195540_0000.png">
