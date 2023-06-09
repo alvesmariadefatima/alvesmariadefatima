@@ -8,7 +8,7 @@
 <br>
 <br>
 <p>📚 I am student of Computing Science in the University Tiradentes (Unit).</p>
-<p>👩‍💻 I'm an intern in the area of Technical Support at SEDUC- AL.</p>
+<p>👩‍💻 I'm intern in the area of Technical Support at SEDUC- AL.</p>
 <p>🚀 I am in the constant learning.</p>
 <p>💻 I intend be a future Front-End Developer.</p>
 <p>🖱️ Hard Skills: HTML, CSS, JavaScript, Python and Java.</p>
