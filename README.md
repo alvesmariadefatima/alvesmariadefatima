@@ -11,7 +11,7 @@
 <p>👩‍💻 I'm intern in the area of Technical Support at SEDUC-AL.</p>
 <p>🚀 I am in the constant learning.</p>
 <p>💻 I intend be a future Front-End Developer.</p>
-<p>🖱️ Hard Skills: HTML, CSS, JavaScript, Python and Java.</p>
+<p>🖱️ Hard Skills: HTML, CSS, JavaScript, Canva, Python, Java, Microsoft Azure and PhpMyAdmin.</p>
 <hr>
 
 <div>
