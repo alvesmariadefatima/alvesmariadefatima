@@ -11,10 +11,10 @@
 <p>👩‍💻 I'm intern in the area of Technical Support at SEDUC-AL.</p>
 <p>🚀 I am in the constant learning.</p>
 <p>💻 I intend be a future Front-End Developer.</p>
-<p>🖱️ Hard Skills: HTML, CSS, JavaScript, Canva, Python, Java, Microsoft Azure and PhpMyAdmin.</p>
+<p>🖱️ Hard Skills: HTML, CSS, JavaScript, Canva, Python, Java, Git, Microsoft Azure and PhpMyAdmin.</p>
 <hr>
-🖱️ Portifólio: https://alvesmariadefatima.github.io/my-personal-portfolio/
-<br>
+🖱️ Portfólio: https://alvesmariadefatima.github.io/my-personal-portfolio/
+<hr>
 <div>
 Contacts: 
 <br>
