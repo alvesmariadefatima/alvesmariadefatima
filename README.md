@@ -10,7 +10,7 @@
 <p>📚 I am student of Computing Science in the University Tiradentes (Unit).</p>
 <p>👩‍💻 I'm intern in the area of Technical Support at SEDUC-AL.</p>
 <p>🚀 I am in the constant learning.</p>
-<p>💻 I intend be a future Front-End Developer.</p>
+<p>💻 I intend be a future Full-Stack Developer.</p>
 <p>🖱️ Hard Skills: HTML, CSS, JavaScript, Canva, Python, Java, Git and PhpMyAdmin.</p>
 <hr>
 🖱️ Portfólio: https://alvesmariadefatima.github.io/my-personal-portfolio/
