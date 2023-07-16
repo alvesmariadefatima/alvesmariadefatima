@@ -11,7 +11,6 @@
 <p>👩‍💻 I'm intern in the area of Technical Support at SEDUC-AL.</p>
 <p>🚀 I am in the constant learning.</p>
 <p>💻 I intend be a future Frontend Developer.</p>
-<p>🖱️ Hard Skills: HTML, CSS, JavaScript, Canva, Python, Java, Git and PhpMyAdmin.</p>
 <hr>
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
