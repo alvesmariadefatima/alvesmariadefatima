@@ -8,7 +8,7 @@
 <br>
 <br>
 <p>📚 I am student of Computing Science in the University Tiradentes (Unit).</p>
-<p>👩‍💻 I'm intern in the area of Technical Support at SEDUC-AL.</p>
+<p>👩‍💻 I'm intern in the area of Technical Support and Frontend Developer at SEDUC-AL.</p>
 <p>🚀 I am in the constant learning.</p>
 <p>💻 I intend be a future Full-Stack Developer.</p>
 <hr>
