@@ -7,7 +7,7 @@
 <img src="cat-typing-12.gif">
 <br>
 <br>
-<p>📚 I am student of Computer Science in the University Unit/Afya.</p>
+<p>📚 I am student of Computer Science in the University Unima/Afya.</p>
 <p>👩‍💻 I'm intern in the area of Technical Support at SEDUC-AL, President and Full-Stack Developer at Athena Group.</p>
 <p>🚀 I am in the constant learning.</p>
 <hr>
