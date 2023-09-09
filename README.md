@@ -1,4 +1,4 @@
-👋 Hello! Welcome to my Github Profile.
+já👋 Hello! Welcome to my Github Profile.
 <br>
 <br>
 👩‍💻 My name is Maria de Fátima Nunes Alves and my nickname is alvesmariadefatima!
@@ -8,7 +8,7 @@
 <br>
 <br>
 <p>📚 I am student of Computer Science in the University Unima/Afya.</p>
-<p>👩‍💻 I'm intern in the area of Technical Support and Frontend Developer at SEDUC/AL.
+<p>👩‍💻 I'm intern in the area of Technical Support and Frontend Developer at SEDUC/AL.</p>
 p.</p>
 <p>🚀 I am in the constant learning.</p>
 <hr>
