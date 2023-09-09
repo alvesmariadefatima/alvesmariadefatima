@@ -9,7 +9,6 @@ já👋 Hello! Welcome to my Github Profile.
 <br>
 <p>📚 I am student of Computer Science in the University Unima/Afya.</p>
 <p>👩‍💻 I'm intern in the area of Technical Support and Frontend Developer at SEDUC/AL.</p>
-p.</p>
 <p>🚀 I am in the constant learning.</p>
 <hr>
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
