@@ -1,4 +1,4 @@
-já👋 Hello! Welcome to my Github Profile.
+👋 Hello! Welcome to my Github Profile.
 <br>
 <br>
 👩‍💻 My name is Maria de Fátima Nunes Alves and my nickname is alvesmariadefatima!
