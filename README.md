@@ -7,7 +7,7 @@
 <img src="cat-typing-12.gif">
 <br>
 <br>
-<p>📚 I am student of Computer Science in the University Unima/Afya.</p>
+<p>📚 I am student of Computer Science in the University Center of Maceió (Unima/Afya)</p>
 <p>👩‍💻 I'm intern in the area of Technical Support and Frontend Developer at SEDUC/AL.</p>
 <p>🚀 I am in the constant learning.</p>
 <hr>
