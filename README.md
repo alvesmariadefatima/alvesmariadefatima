@@ -8,7 +8,7 @@
 <br>
 <br>
 <p>📚 I am student of Computer Science in the University Center of Maceió (Unima/Afya)</p>
-<p>👩‍💻 I'm intern in the area of Technical Support and Frontend Developer at SEDUC/AL.</p>
+<p>👩‍💻 I'm intern in the area of Technical Support, Frontend Developer at SEDUC/AL, AI Art Designer & Content Creator at Mary AI Art Design.</p>
 <p>🚀 I am in the constant learning.</p>
 <hr>
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
