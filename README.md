@@ -8,7 +8,7 @@
 
 👩‍💻 Eu sou estagiária na área de Suporte Técnico, Desenvolvedora Frontend na SEDUC/AL, AI Art Designer & Criadora de Conteúdo na Mary Art Design;
 
-🚀 Estou em constante aprendizado.
+🚀 Estou em constante aprendizado;
 
 🇺🇸 In English: 
 
