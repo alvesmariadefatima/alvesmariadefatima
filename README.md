@@ -1,15 +1,29 @@
-👋 Hello! Welcome to my Github Profile.
+🇧🇷 Em Português: 
+
+👋 Olá! Seja bem-vindo(a) ao meu perfil no Github;
+
+👩‍💻 Meu nome é Maria de Fátima Nunes Alves e meu apelido é alvesmariadefatima!;
+ 
+📚 Eu sou estudante de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);
+
+👩‍💻 Eu sou estagiária na área de Suporte Técnico, Desenvolvedora Frontend na SEDUC/AL, AI Art Designer & Criadora de Conteúdo na Mary Art Design;
+
+🚀 Estou em constante aprendizado.
+
+🇺🇸 In English: 
+
+👋 Hello! Welcome to my Github Profile;
 <br>
 <br>
-👩‍💻 My name is Maria de Fátima Nunes Alves and my nickname is alvesmariadefatima!
+👩‍💻 My name is Maria de Fátima Nunes Alves and my nickname is alvesmariadefatima!;
 <br>
 <br>
 <img src="cat-typing-12.gif">
 <br>
 <br>
-<p>📚 I am student of Computer Science in the University Center of Maceió (Unima/Afya)</p>
-<p>👩‍💻 I'm intern in the area of Technical Support, Frontend Developer at SEDUC/AL, AI Art Designer & Content Creator at Mary AI Art Design.</p>
-<p>🚀 I am in the constant learning.</p>
+<p>📚 I am student of Computer Science in the University Center of Maceió (Unima/Afya);</p>
+<p>👩‍💻 I'm intern in the area of Technical Support, Frontend Developer at SEDUC/AL, AI Art Designer & Content Creator at Mary AI Art Design;</p>
+<p>🚀 I am in the constant learning;</p>
 <hr>
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
