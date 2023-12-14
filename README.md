@@ -6,7 +6,7 @@
  
 📚 Eu sou estudante de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);
 
-👩‍💻 Eu sou estagiária na área de Suporte Técnico, Desenvolvedora Frontend na SEDUC/AL e Desenvolvedora Trainee na FCamara;
+👩‍💻 Eu sou estagiária na área de Suporte Técnico e Desenvolvedora Trainee na FCamara;
 
 🚀 Estou em constante aprendizado;
 
@@ -22,7 +22,7 @@
 <br>
 <br>
 <p>📚 I am student of Computer Science in the University Center of Maceió (Unima/Afya);</p>
-<p>👩‍💻 I'm intern in the area of Technical Support, Frontend Developer at SEDUC/AL & Trainee Developer at FCamara;</p>
+<p>👩‍💻 I'm intern in the area of Technical Support & Trainee Developer at FCamara;</p>
 <p>🚀 I am in the constant learning;</p>
 <hr>
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
