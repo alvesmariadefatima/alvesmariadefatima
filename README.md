@@ -6,7 +6,7 @@
  
 📚 Eu sou estudante de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);
 
-👩‍💻 Eu sou estagiária na área de Suporte Técnico e Desenvolvedora Trainee na FCamara;
+👩‍💻 Eu sou estagiária na área de Suporte Técnico na SEDUC/AL;
 
 🚀 Estou em constante aprendizado;
 
@@ -22,7 +22,7 @@
 <br>
 <br>
 <p>📚 I am student of Computer Science in the University Center of Maceió (Unima/Afya);</p>
-<p>👩‍💻 I'm intern in the area of Technical Support & Trainee Developer at FCamara;</p>
+<p>👩‍💻 I'm intern in the area of Technical Support at SEDUC/AL;</p>
 <p>🚀 I am in the constant learning;</p>
 <hr>
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -37,11 +37,10 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></p>
 <br>
-<p align="center">🔗 <a href="https://alvesmariadefatima.github.io/my-personal-portfolio/">Meu Portfólio Pessoal</a></p>
+<p align="center">🔗 <a href="https://alvesmariadefatima.github.io/my-portfolio/">Meu Portfólio Pessoal</a></p>
 <hr>
 <div>
 <p align="center">Contacts:</p> 
