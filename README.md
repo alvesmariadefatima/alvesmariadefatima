@@ -7,16 +7,6 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 Meu nome é Maria de Fátima Nunes Alves, conhecida como alvesmariadefatima! Sou estudante de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya).
 
-## Experiência Profissional e Acadêmica 🎓💼
-
-**Estágio em Suporte Técnico e Desenvolvimento Web na Secretaria de Estado da Educação - SEDUC/AL:**
-
-Durante meu estágio na SEDUC/AL, tive a oportunidade de trabalhar tanto com suporte técnico, lidando diretamente com usuários finais para resolver problemas e fornecer assistência técnica, quanto com desenvolvimento web, participando de projetos de criação e manutenção de sistemas online.
-
-**Projeto de Extensão Nerds da Computação - Desenvolvimento do Aplicativo Doe Agora:**
-
-Participei ativamente do projeto de extensão da equipe Nerds da Computação, onde colaborei no desenvolvimento do aplicativo Doe Agora. Neste projeto, meu papel foi contribuir para o design e também no desenvolvimento frontend usando Python (biblioteca Kivy) e o Figma, além de trabalhar em equipe para garantir a usabilidade e eficácia do produto final.
-
 ## Contato 📫
 Você pode entrar em contato comigo através do meu e-mail: <a href="mailto:mnunesalves334@gmail.com">mnunesalves334@gmail.com</a>
 
