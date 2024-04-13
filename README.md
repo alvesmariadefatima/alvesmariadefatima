@@ -5,7 +5,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ## Sobre Mim 🧑‍💻
 
-Meu nome é Maria de Fátima Nunes Alves, conhecida como alvesmariadefatima! Sou estudante de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya).
+- Acadêmica de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);
+- Estagiária em Desenvolvimento Web na Art Martins
 
 ## Contato 📫
 Você pode entrar em contato comigo através do meu e-mail: <a href="mailto:mnunesalves334@gmail.com">mnunesalves334@gmail.com</a>
