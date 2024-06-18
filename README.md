@@ -6,6 +6,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ## Sobre Mim 🧑‍💻
 
 - Acadêmica de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);
+- Embaixadora Tech na Reprograma 💜
 - Estagiária em Desenvolvimento Web na Art Martins
 
 ## Contato 📫
@@ -40,7 +41,9 @@ Você também pode me encontrar em outras plataformas:
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></p>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></p>
 <br>
 <hr>
 <div>
