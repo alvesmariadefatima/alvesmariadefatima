@@ -6,7 +6,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ## Sobre Mim 🧑‍💻
 
 - Acadêmica de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);
-- Embaixadora Tech na Reprograma 💜
+- Voluntária na Reprograma 💜
 - Estagiária em Desenvolvimento Web na Art Martins
 
 ## Contato 📫
