@@ -74,5 +74,5 @@ Você também pode me encontrar em outras plataformas:
 <a href = "mailto:mnunesalves334@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/maria-de-fatima-nunes-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 
- <p align="center">➡️ Acesse meu portfólio aqui: </p><p align="center"><a href="https://mariadefatimatech-cd92lltgw.vercel.app/">Meu Portfólio</a></p>
+ <p align="center">➡️ Acesse meu portfólio aqui: </p><p align="center"><a href="https://my-website-portfolio-two.vercel.app/">Meu Portfólio</a></p>
 </div>
