@@ -62,6 +62,7 @@ Você também pode me encontrar em outras plataformas:
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+[![An image of @alvesmariadefatima's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alvesmariadefatima)](https://holopin.io/@alvesmariadefatima)
 </p>
 
 <hr>
