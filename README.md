@@ -65,7 +65,7 @@ Você também pode me encontrar em outras plataformas:
 </p>
 <hr>
 <h1>Emblemas</h1> 
- <img width="50px" height="50px" src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png">
+ <img width="60px" height="60px" src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png">
 <div>
 <p align="center">Contatos:</p> 
 <a href="https://instagram.com/devmariadefatima" target="_blank"><p align="center"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
