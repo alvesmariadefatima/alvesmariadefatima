@@ -1,5 +1,6 @@
 Olá! 👋
-Bem-vindo(a) ao meu perfil no GitHub!
+
+<p>Bem-vindo(a) ao meu perfil no GitHub!<p>
 
 <img src="wp5694478.jpg" alt="Banner de boas-vindas" width="100%" />
 Sobre Mim 🧑‍💻
@@ -9,15 +10,17 @@ Sobre Mim 🧑‍💻
 Contato 📫
 Você pode entrar em contato comigo pelo meu e-mail: mnunesalves334@gmail.com
 
-Idiomas 🌐
+## Idiomas 🌐
 🇧🇷 Português: Fluente
 🇬🇧 Inglês: Intermediário (B2 - Leitura e Escrita)
-Redes Sociais 📱
+
+## Redes Sociais 📱
 Você também pode me encontrar em outras plataformas:
 
 LinkedIn
 Portfólio
-Tecnologias Frontend 🚀
+
+## Tecnologias Frontend 🚀
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -51,11 +54,11 @@ Sistemas Operacionais 🖥️
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
 </p>
-Emblemas 🥇
+## Emblemas 🥇
 <p align="center">
   <img src="https://img.shields.io/badge/-EyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png" width="60px" height="60px" alt="Emblema">
 </p>
-Contatos e Portfólio 🌐
+## Contatos e Portfólio 🌐
 <p align="center">Siga-me nas redes sociais e veja mais do meu trabalho:</p>
 <p align="center">
   <a href="https://instagram.com/devmariadefatima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
