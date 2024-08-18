@@ -133,10 +133,7 @@ Sistemas Operacionais 🖥️
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
 </p>
-Emblemas 🥇
-<p align="center">
-  <img src="https://img.shields.io/badge/-EyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png" width="60px" height="60px" alt="Emblema">
-</p>
+
 Contatos e Portfólio 🌐
 <p align="center">Siga-me nas redes sociais e veja mais do meu trabalho:</p>
 <p align="center">
@@ -145,15 +142,3 @@ Contatos e Portfólio 🌐
   <a href="https://www.linkedin.com/in/maria-de-fatima-nunes-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 <p align="center">➡️ <a href="https://my-website-portfolio-two.vercel.app/">Acesse meu portfólio aqui</a></p>
-Essa versão é mais coesa, com um design organizado e focado em destacar suas habilidades e formas de contato.
-
-
-
-
-
-
-
-
-
-
-ChatGPT pode cometer 
