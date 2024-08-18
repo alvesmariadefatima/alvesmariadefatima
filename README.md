@@ -68,10 +68,3 @@ Você também pode me encontrar em outras plataformas:
 <img width="60px" height="60px" src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png">
 <hr>
 <div>
-<p align="center">Contatos:</p> 
-<a href="https://instagram.com/devmariadefatima" target="_blank"><p align="center"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:mnunesalves334@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/maria-de-fatima-nunes-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
- <p align="center">➡️ Acesse meu portfólio aqui: </p><a href="https://my-website-portfolio-two.vercel.app/">Meu Portfólio</a>
-</div>
