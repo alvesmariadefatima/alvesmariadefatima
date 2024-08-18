@@ -1,4 +1,3 @@
-
 ## Olá! 👋
 Seja bem-vindo(a) ao meu perfil no GitHub!
 
@@ -66,5 +65,4 @@ Você também pode me encontrar em outras plataformas:
 </p>
 <h1>Emblemas 🥇<h1>
 <img width="60px" height="60px" src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png">
-<hr>
 <div>
