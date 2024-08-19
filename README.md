@@ -22,7 +22,7 @@ Você pode entrar em contato comigo através do meu e-mail: <a href="mailto:mnun
 Você também pode me encontrar em outras plataformas:
 
 <li><a href="https://linkedin.com/in/maria-de-fatima-nunes-alves/">Linkedin</a></li>
-<li><a href="https://mariadefatimatech-cd92lltgw.vercel.app/">Portfólio</a></li>
+<li><a href="https://my-website-portfolio-two.vercel.app/">Portfólio</a></li>
 
 <hr>
 
