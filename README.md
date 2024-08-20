@@ -7,6 +7,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 - Acadêmica de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);
 - Atuei como Voluntária na Reprograma 💜
+- Embaixadora RogaDX 2024 ✨
 - Estagiária em Desenvolvimento Web na Art Martins
 
 ## Contato 📫
