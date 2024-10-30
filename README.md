@@ -15,7 +15,7 @@ Você pode entrar em contato comigo através do meu e-mail: <a href="mailto:mnun
 ## Idiomas 🌐
 
 - Português (Fluente)
-- Inglês (Intermediário/B2 - Leitura e Escrita)
+- Inglês (Low Intermediate/A2)
 
 
 ## Redes Sociais 📱
