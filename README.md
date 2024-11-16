@@ -8,6 +8,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 - Acadêmica de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);
 - Atuei como Voluntária na Reprograma e Embaixadora no RogaDX 2024 ✨
 - Desenvolvedora Frontend React Junior Voluntaria no Projeto Frontend Fusion 🚀
+- Community Evangelist no projeto Abacatinhos.dev 🥑
 
 ## Contato 📫
 Você pode entrar em contato comigo através do meu e-mail: <a href="mailto:mnunesalves334@gmail.com">mnunesalves334@gmail.com</a>
