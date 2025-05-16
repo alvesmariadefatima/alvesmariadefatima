@@ -6,7 +6,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ## Sobre Mim 🧑‍💻
 
 - Acadêmica de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);
-- Atuei como Voluntária na Reprograma, Embaixadora no RogaDX 2024 e fui Desenvolvedora Frontend Voluntaria no Projeto Frontend Fusion 🚀
+- Desenvolvedora Frontend Voluntária no Laboratório Orion/UFAL 👩🏻‍💻
 
 ## Contato 📫
 Você pode entrar em contato comigo através do meu e-mail: <a href="mailto:mnunesalves334@gmail.com">mnunesalves334@gmail.com</a>
