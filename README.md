@@ -63,3 +63,9 @@ Você também pode me encontrar em outras plataformas:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
+
+![alvesmariadefatima's Stats](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&theme=jolly&show_icons=true&hide_border=false&count_private=true)
+
+![alvesmariadefatima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvesmariadefatima&theme=jolly&hide_border=false)
+
+![alvesmariadefatima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmariadefatima&theme=jolly&show_icons=true&hide_border=false&layout=compact)
