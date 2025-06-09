@@ -5,8 +5,9 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ## Sobre Mim 🧑‍💻
 
-- Acadêmica de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);  
-- Desenvolvedora Frontend Voluntária no Laboratório Orion/UFAL 👩🏻‍💻  
+📚 Estudante de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);  
+👩🏻‍💻 Desenvolvedora Frontend Voluntária no Laboratório Orion/UFAL  
+🌟 Github Foundations Certified
 
 ## Contato 📫
 
