@@ -1,7 +1,7 @@
 ## Olá! 👋  
 Seja bem-vindo(a) ao meu perfil no GitHub!
 
-<img src="wp5694478.jpg" alt="Banner" />
+<img src="octocat-1750639687942.png" alt="Avatar Github" />
 
 ## Sobre Mim 🧑‍💻
 
