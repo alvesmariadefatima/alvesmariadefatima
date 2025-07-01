@@ -62,6 +62,13 @@ Você pode entrar em contato comigo através do meu e-mail:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
+## Ferramenta de Testes Unitários/End-to-end (E2E)
+<p align="left">
+<img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white">
+<img src="https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white">
+<img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white">
+</p>
+
 ## Sistemas Operacionais 🖥️
 
 <p align="left">
