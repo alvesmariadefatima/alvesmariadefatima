@@ -87,7 +87,7 @@ Você pode entrar em contato comigo através do meu e-mail:
 ![alvesmariadefatima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmariadefatima&theme=jolly&show_icons=true&hide_border=false&layout=compact)
 
 <!-- BADGE DESTACADO COM TEXTO LADO A LADO -->
-## Certificações
+## 🏆 Certificações
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <!-- Badge com link -->
   <a href="https://www.credly.com/badges/a3051736-5ccb-4ff9-ae74-08122f99a07a/public_url" target="_blank">
