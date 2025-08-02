@@ -5,9 +5,9 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ## Sobre Mim 🧑‍💻
 
-📚 Estudante de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);  
-👩🏻‍💻 Desenvolvedora Full-Stack Junior na Stant
-🌟 Github Foundations Certified
+<p>📚 Estudante de Ciência da Computação no Centro Universitário de Maceió (Unima/Afya);</p>  
+<p>👩🏻‍💻 Desenvolvedora Full-Stack Junior na <a href="https://github.com/stantmob" target="_blank">@stantmob</a></p>
+<p>🌟 Github Foundations Certified</p>
 
 ## Contato 📫
 
