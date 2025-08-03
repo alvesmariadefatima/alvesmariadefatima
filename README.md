@@ -71,7 +71,7 @@ Você pode entrar em contato comigo através do meu e-mail:
 </p>
 
 ## Ferramentas para API
-<p align="left>
+<p align="left">
 <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white">
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white">
 </p>
