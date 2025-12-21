@@ -125,5 +125,6 @@
 <p align="center">
   <a href="https://emoji.gg/emoji/5349-hellokittybyebye">
     <img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" alt="HelloKittyByeBye">
-  </a>
+  </a> 
+Desenvolvido com 💖 e carinho por @alvesmariadefatima
 </p>
