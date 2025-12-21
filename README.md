@@ -18,17 +18,12 @@
 - <a href="https://emoji.gg/emoji/9691-hellokittyarrowr">
   <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px">
   </a>
-  Atualmente trabalho como Desenvolvedora Full-Stack Junior & Analista de Qualidade na @stantmob
+<p>Atualmente trabalho como Desenvolvedora Full-Stack Junior & Analista de Qualidade na @stantmob</p>
 
 - <a href="https://emoji.gg/emoji/9691-hellokittyarrowr">
   <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px">
   </a>
-  Atuo com aplicações web, APIs, análise de dados, testes manuais e automatizados
-
-- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr">
-  <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px">
-  </a>
-  Experiência com *Power BI, Pandas, React, Node.js, Laravel e Testes E2E*
+<p>Atuo com aplicações web, APIs, análise de dados, testes manuais e automatizados</p>
 
 - <a href="https://emoji.gg/emoji/9691-hellokittyarrowr">
   <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px">
