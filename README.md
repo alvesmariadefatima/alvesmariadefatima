@@ -107,7 +107,7 @@
 
 ## 🔥 Streak Status
 
-![Maria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvesmariadefatima&background=ffffff&stroke=ffb6c1&ring=ff85c1&fire=ff85c1&currStreakLabel=ff85c1&sideLabels=ff85c1&dates=ffc0cb&border=ffb6c1)
+![Maria's GitHub Streak](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&theme=rose&show_icons=true)
 
 ## 🌸 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmariadefatima&layout=compact&bg_color=ffffff&title_color=ff85c1&text_color=ffc0cb&border_color=ffb6c1)
