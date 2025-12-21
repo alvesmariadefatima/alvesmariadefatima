@@ -14,7 +14,7 @@
 - 🧪 Deepening knowledge in **Automated Testing (E2E & Unit)**
 <h2>Let's connect! 💖</h2>
 
-<div align="center">
+<div>
   <a href="https://linkedin.com/in/maria-de-fatima-nunes-alves/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
