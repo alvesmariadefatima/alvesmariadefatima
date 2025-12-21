@@ -31,7 +31,7 @@
   </a>
 </div>
 
-## Frontend 🎀🚀
+## 🎀🚀 Frontend
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white">
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Vue.js-FFB6C1?style=for-the-badge&logo=vue.js&logoColor=white">
 </p>
 
-## Backend 🧸🔧
+## 🧸🔧 Backend
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-FFB6C1?style=for-the-badge&logo=php&logoColor=white">
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-## Data & Analytics 📊✨
+## 📊✨ Data & Analytics
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-FFB6C1?style=for-the-badge&logo=powerbi&logoColor=white">
@@ -71,28 +71,28 @@
   <img src="https://img.shields.io/badge/PostgreSQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-## Design 🎨💖
+## 🎨💖 Design
 
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-FFB6C1?style=for-the-badge&logo=canva&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-## Testing (E2E) 🧪💖
+## 🧪💖 Testing (E2E)
 <p align="left">
   <img src="https://img.shields.io/badge/Jest-FFB6C1?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/Cypress-FFB6C1?style=for-the-badge&logo=cypress&logoColor=white">
   <img src="https://img.shields.io/badge/Vitest-FFB6C1?style=for-the-badge&logo=vitest&logoColor=white">
 </p>
 
-## APIs & Integrations 🔗💖
+## 🔗💖 APIs & Integrations
 
 <p align="left">
   <img src="https://img.shields.io/badge/GraphQL-FFB6C1?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/Apollo_GraphQL-FFB6C1?style=for-the-badge&logo=apollo-graphql&logoColor=white">
 </p>
 
-## Operating Systems 🖥️💖
+## 🖥️💖 Operating Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FFB6C1?style=for-the-badge&logo=linux&logoColor=white">
@@ -113,7 +113,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&theme=rose&show_icons=true)
 
 <!-- BADGE DESTACADO COM TEXTO LADO A LADO -->
-## Certifications 🏆💖
+## 🏆💖 Certifications
 
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <!-- Badge com link -->
