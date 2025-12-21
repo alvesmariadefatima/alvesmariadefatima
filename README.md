@@ -110,7 +110,7 @@
 ![Maria's GitHub Streak](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&theme=rose&show_icons=true)
 
 ## 🌸 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmariadefatima&layout=compact&bg_color=ffffff&title_color=ff85c1&text_color=ffc0cb&border_color=ffb6c1)
+![Top Languages](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&theme=rose&show_icons=true)
 
 <!-- BADGE DESTACADO COM TEXTO LADO A LADO -->
 ## Certifications 🏆💖
