@@ -57,7 +57,7 @@ Você pode entrar em contato comigo através do meu e-mail:
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-## Tecnologias Full-Stack & Dados 📊💻
+## Tecnologias voltadas para Análise de Dados 📊💻
 
 <p align="left">
   <!-- Dados -->
