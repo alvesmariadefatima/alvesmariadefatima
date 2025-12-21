@@ -25,7 +25,7 @@ Você pode entrar em contato comigo através do meu e-mail:
 
 ---
 
-## Tecnologias Frontend 🚀
+## Frontend 🚀
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -40,7 +40,7 @@ Você pode entrar em contato comigo através do meu e-mail:
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </p>
 
-## Tecnologias Backend 🔧
+## Backend 🔧
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -56,7 +56,7 @@ Você pode entrar em contato comigo através do meu e-mail:
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-## Tecnologias voltadas para Análise de Dados 📊💻
+## Data & Analytics 📊💻
 
 <p align="left">
   <!-- Dados -->
@@ -68,21 +68,22 @@ Você pode entrar em contato comigo através do meu e-mail:
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-## Ferramentas de Design 🎨
+## Design 🎨
 
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-## Frameworks de Testes Unitários & End-to-end (E2E)
+## Testing (E2E)
 <p align="left">
 <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white">
 <img src="https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white">
 <img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white">
 </p>
 
-## Tecnologias Utilizadas (API)
+## APIs & Integrações 🔗
+
 <p align="left">
 <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white">
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white">
