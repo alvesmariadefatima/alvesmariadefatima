@@ -32,11 +32,18 @@
 <br>
 <br>
 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-de-fatima-nunes-alves/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white)](https://my-website-portfolio-two.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnunesalves334@gmail.com)
+<h2 align="center">Let's connect! 💖</h2>
 
+<div align="center">
+  <a href="https://linkedin.com/in/maria-de-fatima-nunes-alves/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://my-website-portfolio-two.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:mnunesalves334@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ## Frontend 🎀🚀
