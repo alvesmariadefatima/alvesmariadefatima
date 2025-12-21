@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<h2 align="center">Let's connect! 💖</h2>
+<h2>Let's connect! 💖</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/maria-de-fatima-nunes-alves/" target="_blank">
