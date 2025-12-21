@@ -12,7 +12,6 @@
 - 💻 Working as **Junior Full-Stack Developer & QA Analyst** at @stantmob  
 - 📊 Improving skills in **Data Analysis & Dashboards**  
 - 🧪 Deepening knowledge in **Automated Testing (E2E & Unit)**
-<br>
 <h2>Let's connect! 💖</h2>
 
 <div align="center">
