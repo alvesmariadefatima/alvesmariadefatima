@@ -13,9 +13,9 @@
 
 <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px"> 💻 Working as **Junior Full-Stack Developer & QA Analyst** at <a href="https://github.com/stantmob">@stantmob</a>  
 
-<img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px"><a href="https://emoji.gg/emoji/9691-hellokittyarrowr"> 📊 Improving skills in **Data Analysis & Dashboards**  
+<img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px"> 📊 Improving skills in **Data Analysis & Dashboards**  
 
-<img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px"><a href="https://emoji.gg/emoji/9691-hellokittyarrowr"> 🧪 Deepening knowledge in **Automated Testing (E2E & Unit)**
+<img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px"> 🧪 Deepening knowledge in **Automated Testing (E2E & Unit)**
 
 <h2>Let's connect! 💖</h2>
 
