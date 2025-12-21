@@ -1,4 +1,5 @@
-## Olá! 👋  
+## Olá! | Hello! 👋 
+ 
 Seja bem-vindo(a) ao meu perfil no GitHub!
 
 <img src="octocat-1750639687942.png" alt="Avatar Github" />
@@ -6,24 +7,30 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ## Sobre Mim 🧑‍💻
 
 <p>👩🏻‍💻 Desenvolvedora Full-Stack Junior & Analista de Qualidade na <a href="https://github.com/stantmob" target="_blank">@stantmob</a>, com foco em aplicações web, APIs, análise de dados, testes manuais e automatizados</p>
-<p>📊 Experiência com visualização e tratamento de dados utilizando Power BI e Pandas</p>
+<p>📊 Experiência com visualização e tratamento de dados utilizando Power BI e Pandas.</p>
 
-## Contato 📫
+## Contato | Contact 📫
 
 Você pode entrar em contato comigo através do meu e-mail:  
 <a href="mailto:mnunesalves334@gmail.com">mnunesalves334@gmail.com</a>
 
-## Idiomas 🌐
+## Idiomas | Linguagens 🌐
 
 - Português (Fluente)  
 - Inglês (Low Intermediate / A2)
 
-## Redes Sociais 📱
+## Redes Sociais | Social Links 📱
 
 - [LinkedIn](https://linkedin.com/in/maria-de-fatima-nunes-alves/)
 - [Portfólio](https://my-website-portfolio-two.vercel.app/)
 
 ---
+
+## 🇺🇸 About Me 🧑‍💻
+
+<p>👩🏻‍💻 Junior Full-Stack Developer & QA Analyst at
+@stantmob, focused on web applications, APIs, data analysis, and manual & automated testing.</p>
+<p>📊 Experience with data visualization and data processing using Power BI and Pandas.</p>
 
 ## Frontend 🚀
 
@@ -82,14 +89,14 @@ Você pode entrar em contato comigo através do meu e-mail:
 <img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white">
 </p>
 
-## APIs & Integrações 🔗
+## APIs & Integrations 🔗
 
 <p align="left">
 <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white">
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white">
 </p>
 
-## Sistemas Operacionais 🖥️
+## Operating Systems 🖥️
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -98,7 +105,7 @@ Você pode entrar em contato comigo através do meu e-mail:
 
 ---
 
-## Estatísticas 📊
+## Github Stats 📊
 
 ![alvesmariadefatima's Stats](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&theme=jolly&show_icons=true&hide_border=false&count_private=true)
 
@@ -107,7 +114,8 @@ Você pode entrar em contato comigo através do meu e-mail:
 ![alvesmariadefatima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmariadefatima&theme=jolly&show_icons=true&hide_border=false&layout=compact)
 
 <!-- BADGE DESTACADO COM TEXTO LADO A LADO -->
-## 🏆 Certificações
+## 🏆 Certificações | Certifications
+
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <!-- Badge com link -->
   <a href="https://www.credly.com/badges/a3051736-5ccb-4ff9-ae74-08122f99a07a/public_url" target="_blank">
