@@ -5,9 +5,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ## Sobre Mim 🧑‍💻
 
-<p>📚 Estudante de Ciência da Computação no Afya Centro Universitário UNIMA</p>  
-<p>👩🏻‍💻 Desenvolvedora Full-Stack Junior na <a href="https://github.com/stantmob" target="_blank">@stantmob</a></p>
-<p>🌟 Github Foundations Certified</p>
+<p>👩🏻‍💻 Desenvolvedora Full-Stack Junior & Analista de Qualidade na <a href="https://github.com/stantmob" target="_blank">@stantmob</a>, com foco em aplicações web, APIs, análise de dados, testes manuais e automatizados</p>
+<p>📊 Experiência com visualização e tratamento de dados utilizando Power BI e Pandas</p>
 
 ## Contato 📫
 
@@ -57,6 +56,18 @@ Você pode entrar em contato comigo através do meu e-mail:
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+## Tecnologias Full-Stack & Dados 📊💻
+
+<p align="left">
+  <!-- Dados -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+  <!-- Backend / Linguagens base para dados -->
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 ## Ferramentas de Design 🎨
