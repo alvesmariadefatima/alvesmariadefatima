@@ -1,6 +1,8 @@
 ## Olá! | Hello! 👋 
  
-Seja bem-vindo(a) ao meu perfil no GitHub!
+🇧🇷 Português: Seja bem-vindo(a) ao meu perfil no GitHub!
+
+🇺🇸 English: Welcome to my Github Profile!
 
 <img src="octocat-1750639687942.png" alt="Avatar Github" />
 
