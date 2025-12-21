@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-- 💻 Working as **Junior Full-Stack Developer & QA Analyst** at @stantmob  
+- 💻 Working as **Junior Full-Stack Developer & QA Analyst** at <a href="https://github.com/stantmob">@stantmob</a>  
 - 📊 Improving skills in **Data Analysis & Dashboards**  
 - 🧪 Deepening knowledge in **Automated Testing (E2E & Unit)**
 <h2>Let's connect! 💖</h2>
