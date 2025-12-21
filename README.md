@@ -1,40 +1,49 @@
-## Olá! | Hello! 👋 
- 
-🇧🇷 Português: Seja bem-vindo(a) ao meu perfil no GitHub!
+<h1 align="center">
+  Hi! 
+  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle">
+    <img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle">
+  </a>, 
+  I'm Maria de Fátima!
+  <a href="https://emoji.gg/emoji/7745-moon">
+    <img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="48px" height="48px" alt="Moon">
+  </a>
+</h1>
 
-🇺🇸 English: Welcome to my Github Profile!
+<h3 align="center">
+  Junior Full-Stack Developer & QA Analyst from Brazil 🇧🇷
+</h3>
 
 <img src="octocat-1750639687942.png" alt="Avatar Github" />
 
-## Sobre Mim 🧑‍💻
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr">
+  <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px">
+  </a>
+  Atualmente trabalho como **Desenvolvedora Full-Stack Junior & Analista de Qualidade** na **@stantmob**
 
-<p>👩🏻‍💻 Desenvolvedora Full-Stack Junior & Analista de Qualidade na <a href="https://github.com/stantmob" target="_blank">@stantmob</a>, com foco em aplicações web, APIs, análise de dados, testes manuais e automatizados</p>
-<p>📊 Experiência com visualização e tratamento de dados utilizando Power BI e Pandas.</p>
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr">
+  <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px">
+  </a>
+  Atuo com **aplicações web, APIs, análise de dados e testes manuais e automatizados**
 
-## Contato | Contact 📫
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr">
+  <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px">
+  </a>
+  Experiência com **Power BI, Pandas, React, Node.js, Laravel e Testes E2E**
 
-Você pode entrar em contato comigo através do meu e-mail:  
-<a href="mailto:mnunesalves334@gmail.com">mnunesalves334@gmail.com</a>
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr">
+  <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px">
+  </a>
+  Apaixonada por **tecnologia, dados, qualidade de software** e por deixar tudo bem organizado ✨
 
-## Idiomas | Linguagens 🌐
+<div align="center">
 
-- Português (Fluente)  
-- Inglês (Low Intermediate / A2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-de-fatima-nunes-alves/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white)](https://my-website-portfolio-two.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnunesalves334@gmail.com)
 
-## Redes Sociais | Social Links 📱
+</div>
 
-- [LinkedIn](https://linkedin.com/in/maria-de-fatima-nunes-alves/)
-- [Portfólio](https://my-website-portfolio-two.vercel.app/)
-
----
-
-## 🇺🇸 About Me 🧑‍💻
-
-<p>👩🏻‍💻 Junior Full-Stack Developer & QA Analyst at
-<a href="https://github.com/stantmob">@stantmob</a>, focused on web applications, APIs, data analysis, and manual & automated testing.</p>
-<p>📊 Experience with data visualization and data processing using Power BI and Pandas.</p>
-
-## Frontend 🚀
+## Frontend 🎀🚀
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -49,7 +58,7 @@ Você pode entrar em contato comigo através do meu e-mail:
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </p>
 
-## Backend 🔧
+## Backend 🧸🔧
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -65,7 +74,7 @@ Você pode entrar em contato comigo através do meu e-mail:
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-## Data & Analytics 📊💻
+## Data & Analytics 📊✨
 
 <p align="left">
   <!-- Dados -->
@@ -77,28 +86,28 @@ Você pode entrar em contato comigo através do meu e-mail:
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-## Design 🎨
+## Design 🎨💖
 
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-## Testing (E2E)
+## Testing (E2E) 🧪💖
 <p align="left">
 <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white">
 <img src="https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white">
 <img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white">
 </p>
 
-## APIs & Integrations 🔗
+## APIs & Integrations 🔗💖
 
 <p align="left">
 <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white">
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white">
 </p>
 
-## Operating Systems 🖥️
+## Operating Systems 🖥️💖
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -107,7 +116,7 @@ Você pode entrar em contato comigo através do meu e-mail:
 
 ---
 
-## Github Stats 📊
+## Github Stats 📊✨
 
 ![alvesmariadefatima's Stats](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&theme=jolly&show_icons=true&hide_border=false&count_private=true)
 
@@ -116,7 +125,7 @@ Você pode entrar em contato comigo através do meu e-mail:
 ![alvesmariadefatima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmariadefatima&theme=jolly&show_icons=true&hide_border=false&layout=compact)
 
 <!-- BADGE DESTACADO COM TEXTO LADO A LADO -->
-## 🏆 Certificações | Certifications
+## Certifications 🏆💖
 
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <!-- Badge com link -->
@@ -124,3 +133,9 @@ Você pode entrar em contato comigo através do meu e-mail:
     <img src="github-foundations.png" width="100" alt="GitHub Foundations Certified Badge" style="border-radius: 10px;" />
   </a>
 </div>
+
+<p align="center">
+  <a href="https://emoji.gg/emoji/5349-hellokittybyebye">
+    <img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" alt="HelloKittyByeBye">
+  </a>
+</p>
