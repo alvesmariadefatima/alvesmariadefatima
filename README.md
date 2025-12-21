@@ -13,7 +13,6 @@
 - 📊 Improving skills in **Data Analysis & Dashboards**  
 - 🧪 Deepening knowledge in **Automated Testing (E2E & Unit)**
 <br>
-<br>
 <h2>Let's connect! 💖</h2>
 
 <div align="center">
