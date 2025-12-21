@@ -127,5 +127,5 @@
     <img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" alt="HelloKittyByeBye">
   </a>
   <br>
-  Desenvolvido com 💖 e carinho por @alvesmariadefatima
+  Desenvolvido com 💖 e carinho por <a href="https://github.com/alvesmariadefatima">@alvesmariadefatima</a>
 </p>
