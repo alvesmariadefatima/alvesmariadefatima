@@ -30,6 +30,7 @@
   </a>
   Apaixonada por tecnologia, dados, qualidade de software e por deixar tudo bem organizado ✨
 <br>
+<br>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-de-fatima-nunes-alves/)
