@@ -103,7 +103,7 @@
 
 ## ⭐ Stats Card 
 
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&show_icons=true&count_private=true&bg_color=ffffff&title_color=ff85c1&text_color=ffc0cb&icon_color=ff85c1&border_color=ffb6c1)
+![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima &theme=rose&show_icons=true)
 
 ## 🔥 Streak Status
 
