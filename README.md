@@ -103,14 +103,14 @@
 
 ## ⭐ Stats Card 
 
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&show_icons=true&count_private=true&bg_color=ffffff&title_color=ff69b4&text_color=ff9acb&icon_color=ff69b4&border_color=ffb6c1)
+![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&show_icons=true&count_private=true&bg_color=ffffff&title_color=ff85c1&text_color=ffc0cb&icon_color=ff85c1&border_color=ffb6c1)
 
 ## 🔥 Streak Status
 
-![Maria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvesmariadefatima&background=ffffff&stroke=ffb6c1&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ff9acb&border=ffb6c1)
+![Maria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvesmariadefatima&background=ffffff&stroke=ffb6c1&ring=ff85c1&fire=ff85c1&currStreakLabel=ff85c1&sideLabels=ff85c1&dates=ffc0cb&border=ffb6c1)
 
 ## 🌸 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmariadefatima&layout=compact&bg_color=ffffff&title_color=ff69b4&text_color=ff9acb&border_color=ffb6c1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmariadefatima&layout=compact&bg_color=ffffff&title_color=ff85c1&text_color=ffc0cb&border_color=ffb6c1)
 
 <!-- BADGE DESTACADO COM TEXTO LADO A LADO -->
 ## Certifications 🏆💖
