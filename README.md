@@ -18,17 +18,17 @@
 <a href="https://emoji.gg/emoji/9691-hellokittyarrowr">
   <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px">
   </a>
-<p>Atualmente trabalho como Desenvolvedora Full-Stack Junior & Analista de Qualidade na @stantmob</p>
+  Atualmente trabalho como Desenvolvedora Full-Stack Junior & Analista de Qualidade na @stantmob
 
 <a href="https://emoji.gg/emoji/9691-hellokittyarrowr">
   <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px">
   </a>
-<p>Atuo com aplicações web, APIs, análise de dados, testes manuais e automatizados</p>
+ Atuo com aplicações web, APIs, análise de dados, testes manuais e automatizados
 
 <a href="https://emoji.gg/emoji/9691-hellokittyarrowr">
   <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="28px" height="28px">
   </a>
-  Apaixonada por *tecnologia, dados, qualidade de software* e por deixar tudo bem organizado ✨
+  Apaixonada por tecnologia, dados, qualidade de software e por deixar tudo bem organizado ✨
 
 <div align="center">
 
