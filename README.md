@@ -31,7 +31,7 @@ Você pode entrar em contato comigo através do meu e-mail:
 ## 🇺🇸 About Me 🧑‍💻
 
 <p>👩🏻‍💻 Junior Full-Stack Developer & QA Analyst at
-@stantmob, focused on web applications, APIs, data analysis, and manual & automated testing.</p>
+<a href="https://github.com/stantmob">@stantmob</a>, focused on web applications, APIs, data analysis, and manual & automated testing.</p>
 <p>📊 Experience with data visualization and data processing using Power BI and Pandas.</p>
 
 ## Frontend 🚀
