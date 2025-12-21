@@ -32,6 +32,7 @@
 <br>
 <br>
 <div align="center">
+## Contacts 💖
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-de-fatima-nunes-alves/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white)](https://my-website-portfolio-two.vercel.app/)
