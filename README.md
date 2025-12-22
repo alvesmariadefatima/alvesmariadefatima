@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://my-website-portfolio-two.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:mnunesalves334@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
