@@ -105,13 +105,6 @@
 
 ![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&theme=rose&show_icons=true)
 
-## 🔥 Streak Status
-
-![Maria's GitHub Streak](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&theme=rose&show_icons=true)
-
-## 🌸 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api?username=alvesmariadefatima&theme=rose&show_icons=true)
-
 <!-- BADGE DESTACADO COM TEXTO LADO A LADO -->
 ## 🏆💖 Certifications
 
